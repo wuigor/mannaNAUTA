@@ -1,7 +1,5 @@
 # mannaNAUTA 🚀
 
-**Explore a Tecnologia, Inspire a Aprendizagem!**
-
 **Idioma:** [English](README.md) | Português (Brasil)
 
 <p align="center">
