@@ -11,15 +11,23 @@ peripherals, and alternate functions exposed by the ESP32-S3.
 
 ### Front
 
-![Front view of the mannaNAUTA board](../../assets/images/Frente_mannaNAUTA_1.png)
+<p align="center">
+  <img src="../../assets/images/Frente_mannaNAUTA_1.png" alt="Front view of the mannaNAUTA board" width="420">
+</p>
 
-![Detailed front view of the mannaNAUTA board](../../assets/images/Frente_mannaNAUTA_2.png)
+<p align="center">
+  <img src="../../assets/images/Frente_mannaNAUTA_2.png" alt="Detailed front view of the mannaNAUTA board" width="420">
+</p>
 
 ### Back
 
-![Back view of the mannaNAUTA board](../../assets/images/Verso_mannaNAUTA_1.png)
+<p align="center">
+  <img src="../../assets/images/Verso_mannaNAUTA_1.png" alt="Back view of the mannaNAUTA board" width="420">
+</p>
 
-![Detailed back view of the mannaNAUTA board](../../assets/images/Verso_mannaNAUTA_2.png)
+<p align="center">
+  <img src="../../assets/images/Verso_mannaNAUTA_2.png" alt="Detailed back view of the mannaNAUTA board" width="420">
+</p>
 
 ## Built-in hardware
 

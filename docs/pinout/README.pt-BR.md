@@ -11,15 +11,23 @@ integrados e funções alternativas disponibilizadas pelo ESP32-S3.
 
 ### Frente
 
-![Vista frontal da placa mannaNAUTA](../../assets/images/Frente_mannaNAUTA_1.png)
+<p align="center">
+  <img src="../../assets/images/Frente_mannaNAUTA_1.png" alt="Vista frontal da placa mannaNAUTA" width="420">
+</p>
 
-![Vista frontal detalhada da placa mannaNAUTA](../../assets/images/Frente_mannaNAUTA_2.png)
+<p align="center">
+  <img src="../../assets/images/Frente_mannaNAUTA_2.png" alt="Vista frontal detalhada da placa mannaNAUTA" width="420">
+</p>
 
 ### Verso
 
-![Vista traseira da placa mannaNAUTA](../../assets/images/Verso_mannaNAUTA_1.png)
+<p align="center">
+  <img src="../../assets/images/Verso_mannaNAUTA_1.png" alt="Vista traseira da placa mannaNAUTA" width="420">
+</p>
 
-![Vista traseira detalhada da placa mannaNAUTA](../../assets/images/Verso_mannaNAUTA_2.png)
+<p align="center">
+  <img src="../../assets/images/Verso_mannaNAUTA_2.png" alt="Vista traseira detalhada da placa mannaNAUTA" width="420">
+</p>
 
 ## Hardware integrado
 
